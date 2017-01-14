@@ -1,2 +1,4 @@
 Notes
 Notes related to this course.
+
+ssh -L <port>:localhost:<port> <your EC2 IP/hostname>

@@ -1,0 +1,20 @@
+Registered email address: anroyflash@gmail.com
+Product key: 97CD-183E-9300-B335-F673-FD07-C499-3089
+
+
+GraphLab Create Launcher
+
+The GraphLab Create Launcher will do the following:
+1Install Anaconda
+This Python distribution includes popular packages for data analysis.
+2Create a new Python Environment (with Anaconda)
+This environment will include IPython, Jupyter Notebook, scikit-learn, and NumPy.
+3Install GraphLab Create
+Our machine learning platform will help you to build intelligent apps.
+
+NOTE: You can also install GraphLab Create via the command line.
+
+GraphLab Create Launcher will install Anaconda, create the "gl-env" environment, and install GraphLab Create in the directory:
+C:\Users\Narayan\Anaconda2
+
+This installation requires 2 GB of free space.
